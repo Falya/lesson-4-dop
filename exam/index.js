@@ -51,4 +51,4 @@ module.exports = {
     firstName: 'Максим',
     secondName: 'Фалей',
     task: getFriendlyNumbers
-}
+};
